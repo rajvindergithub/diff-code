@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ezsystems/diff": "^1.4"
+    }
+}
